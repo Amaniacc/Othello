@@ -1,13 +1,3 @@
-'''
-    Amani Cheatham
-    102-81-556
-    Due: November 13, 2022
-    Assignment #3
-    This program will Implement Othello, also known as Reversi, game with two players and an AI
-    using the Mini-Max algorithm as well as alpha-beta pruning.
-    This is the Othello game where you can run and play the game!!
-'''
-
 # IMPORTS
 from tkinter import *
 from Game import *

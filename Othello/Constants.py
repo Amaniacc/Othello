@@ -1,13 +1,3 @@
-'''
-    Amani Cheatham
-    102-81-556
-    Due: November 13, 2022
-    Assignment #3
-    This program will Implement Othello, also known as Reversi, game with two players and an AI
-    using the Mini-Max algorithm as well as alpha-beta pruning.
-    This class will hold Global variables that will be used throughout all the files.
-'''
-
 # CONSTANTS
 WIDTH,HEIGHT = 800, 800
 ROWS,COLUMNS = 8,8
